@@ -1,13 +1,10 @@
 <p align="left"><img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
  </p>
 
-- 👋 Hi, I’m @saurabh111121
-- 📫 How to reach me : 111121saurabh@gmail.com
-
 ### :coffee: Languages 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
