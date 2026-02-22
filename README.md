@@ -25,19 +25,6 @@
   <img src="https://skillicons.dev/icons?i=java,ts,js,react,spring,aws,docker,kubernetes,mysql,dynamodb,githubactions&perline=15" />
 </p>
 
-
-
----
-
-## 📊 LeetCode & Problem Solving
-
-<p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/111121saurabh?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0"
-    alt="LeetCode Stats"
-  />
-</p>
-
 ---
 
 ## 🤝 Let’s Connect
