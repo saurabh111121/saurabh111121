@@ -44,16 +44,13 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://saurabh111121.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
   <a href="mailto:111121saurabh@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/saurabh111121">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://leetcode.com/111121saurabh">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://saurabh111121.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
